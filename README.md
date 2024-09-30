@@ -6,8 +6,8 @@
 ### 😖 About Me:
 
 
-- 🛡️ &nbsp; CyberSecurity 
-- 🌱 &nbsp; Golang builder
+- 🛡️ &nbsp; Purple Team Pentester and Forensic Analyst
+- 🌱 &nbsp; Golang Dev
 - ⚡ &nbsp; Calamïty & NetRunner Team Founder
 - 📫 &nbsp; Contact me by [mail](mailto:calamitycorp@protonmail.com?subject=[Contact])
 - 🐻 &nbsp; my main goal is to create my own CyberSecurity enterprize.

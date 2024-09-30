@@ -6,7 +6,7 @@
 ### 😖 About Me:
 
 
-- 🛡️ &nbsp; Purple Team Pentester and Forensic Analyst
+- 🛡️ &nbsp; Purple Team Pentester/Security Analyst and Forensic Analyst
 - 🌱 &nbsp; Golang Dev
 - ⚡ &nbsp; Calamïty & NetRunner Team Founder
 - 📫 &nbsp; Contact me by [mail](mailto:calamitycorp@protonmail.com?subject=[Contact])

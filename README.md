@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Im+0xCookie+Cybersecurity+PurpleTeam+Operator)](https://git.io/typing-svg)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Im+0xCookie+Cybersecurity+PurpleTeam+   )](https://git.io/typing-svg)
 
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/1047066592795709441/1054127561313108008/lucy-cyberpunk-edge-runner.gif" width="360px"/>

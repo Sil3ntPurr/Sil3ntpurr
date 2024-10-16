@@ -19,7 +19,7 @@
 
 ---
 [<img height="150px" width="350px" src="https://i.ibb.co/tq4q536/bash-1-logo-png-transparent-removebg-preview.png">](https://i.ibb.co/tq4q536/bash-1-logo-png-transparent-removebg-preview.png)
-[<img height="150px" width="200px" src="https://i.ibb.co/JQYZb3g/619308-middle-removebg-preview.png">](https://i.ibb.co/JQYZb3g/619308-middle-removebg-preview.png)
+[<img height="190px" width="200px" src="https://i.ibb.co/JQYZb3g/619308-middle-removebg-preview.png">](https://i.ibb.co/JQYZb3g/619308-middle-removebg-preview.png)
 [<img src="https://i.ibb.co/XFQP1ZN/power-to-the-linux.png">](https://i.ibb.co/XFQP1ZN/power-to-the-linux.png)
 
 

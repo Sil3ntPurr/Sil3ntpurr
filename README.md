@@ -22,5 +22,6 @@
 
 🤣 Cybersecurity Joke:
 
-👾 Why did the hacker cross the road?
-Because the chicken's password was too easy to crack!
+👾 If girls are made of sugar, spice, and everything nice, and boys are made of slime, snails, and puppy-dog tails, what’s the cloud made from?
+
+    Linux servers, mostly.

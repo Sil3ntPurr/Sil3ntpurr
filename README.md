@@ -1,6 +1,6 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Im+0xCookie+Cybersecurity+Student)](https://git.io/typing-svg)
 
-![Alt text](https://c.tenor.com/hNLNnaorjlwAAAAd/tenor.gif)
+![Alt text](https://tenor.com/fr/view/lucy-lucyna-cyberpunk-edgerunners-smoking-gif-26752079)
 
 ---
 ## 😖 About Me:

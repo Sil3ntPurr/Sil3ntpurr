@@ -18,6 +18,8 @@
 🔒 Did you know? The first computer virus ever created was called the "Creeper" virus in 1971, which was more of a playful experiment than a harmful attack. It simply displayed the message: "I’m the creeper, catch me if you can!"
 
 ---
+## Programming in
+
 [<img height="130px" width="230px" src="https://i.ibb.co/5xs8MjK/kisspng-bash-scalable-vector-graphics-logo-printf-format-s-5c75b46bedb4e1-0025959815512177719737-rem.png">](https://i.ibb.co/5xs8MjK/kisspng-bash-scalable-vector-graphics-logo-printf-format-s-5c75b46bedb4e1-0025959815512177719737-rem.png)
 [<img height="130px" width="130px" src="https://i.ibb.co/pRrMJNy/images-removebg-preview.png">](https://i.ibb.co/pRrMJNy/images-removebg-preview.png)
 [<img src="https://i.ibb.co/XFQP1ZN/power-to-the-linux.png">](https://i.ibb.co/XFQP1ZN/power-to-the-linux.png)
@@ -30,4 +32,7 @@
 👾 If girls are made of sugar, spice, and everything nice, and boys are made of slime, snails, and puppy-dog tails, what’s the cloud made from?
 
     Linux servers, mostly.
+---
+## My TryHackMe Profile
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=156933" style='border:none;'></iframe>
 ---

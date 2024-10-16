@@ -34,5 +34,5 @@
     Linux servers, mostly.
 ---
 ## My TryHackMe Profile
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=156933"></img>
+[<img src="https://tryhackme-badges.s3.amazonaws.com/0xSkoll.png" alt="Your Image Badge" />]
 ---

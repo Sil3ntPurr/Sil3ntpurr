@@ -36,6 +36,6 @@
 
 ## My TryHackMe and HackTheBox Profile
 [<img src="https://tryhackme-badges.s3.amazonaws.com/0xSkoll.png" alt="Your Image Badge" />](https://tryhackme-badges.s3.amazonaws.com/0xSkoll.png)
-[<img height="60px" width="230px" src="https://i.ibb.co/kq1cqbQ/Screenshot-2024-10-16-at-16-17-56-Hack-The-Box-User-Profile.png" alt="Your Image Badge" />](https://i.ibb.co/kq1cqbQ/Screenshot-2024-10-16-at-16-17-56-Hack-The-Box-User-Profile.png)
+[<img height="58px" width="230px" src="https://i.ibb.co/kq1cqbQ/Screenshot-2024-10-16-at-16-17-56-Hack-The-Box-User-Profile.png" alt="Your Image Badge" />](https://i.ibb.co/kq1cqbQ/Screenshot-2024-10-16-at-16-17-56-Hack-The-Box-User-Profile.png)
 
 ---

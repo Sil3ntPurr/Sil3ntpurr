@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/1047066592795709441/1054127561313108008/lucy-cyberpunk-edge-runner.gif" width="360px"/>
 
----
+------
 ## 😖 About Me:
 
     🛡️   Purple Team Pentester, Security Analyst, and Forensic Analyst
@@ -25,3 +25,4 @@
 👾 If girls are made of sugar, spice, and everything nice, and boys are made of slime, snails, and puppy-dog tails, what’s the cloud made from?
 
     Linux servers, mostly.
+---

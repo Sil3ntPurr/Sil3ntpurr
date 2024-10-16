@@ -18,7 +18,7 @@
 🔒 Did you know? The first computer virus ever created was called the "Creeper" virus in 1971, which was more of a playful experiment than a harmful attack. It simply displayed the message: "I’m the creeper, catch me if you can!"
 
 ---
-[<img height="150px" width="200px" src="https://i.ibb.co/5xs8MjK/kisspng-bash-scalable-vector-graphics-logo-printf-format-s-5c75b46bedb4e1-0025959815512177719737-rem.png">](https://i.ibb.co/5xs8MjK/kisspng-bash-scalable-vector-graphics-logo-printf-format-s-5c75b46bedb4e1-0025959815512177719737-rem.png)
+[<img height="150px" width="250px" src="https://i.ibb.co/5xs8MjK/kisspng-bash-scalable-vector-graphics-logo-printf-format-s-5c75b46bedb4e1-0025959815512177719737-rem.png">](https://i.ibb.co/5xs8MjK/kisspng-bash-scalable-vector-graphics-logo-printf-format-s-5c75b46bedb4e1-0025959815512177719737-rem.png)
 [<img height="150px" width="200px" src="https://i.ibb.co/JQYZb3g/619308-middle-removebg-preview.png">](https://i.ibb.co/JQYZb3g/619308-middle-removebg-preview.png)
 [<img src="https://i.ibb.co/XFQP1ZN/power-to-the-linux.png">](https://i.ibb.co/XFQP1ZN/power-to-the-linux.png)
 

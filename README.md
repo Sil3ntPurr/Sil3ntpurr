@@ -1,7 +1,7 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Im+0xCookie+Cybersecurity+Student)](https://git.io/typing-svg)
 
 
-<center><img align="right" alt="GIF" src="https://c.tenor.com/hNLNnaorjlwAAAAd/tenor.gif" width="360px"/></center>
+<img align="right" alt="GIF" src="https://c.tenor.com/hNLNnaorjlwAAAAd/tenor.gif" width="360px"/>
 
 ---
 ## 😖 About Me:

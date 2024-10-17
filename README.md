@@ -39,7 +39,7 @@
 ## My TryHackMe and HackTheBox Profile
 <p align="center">
     <img src="https://i.ibb.co/JtqXxc0/0xSkoll.png" alt="Your Image Badge" />
-    <img height="80px" width="300px" src="https://i.ibb.co/kq1cqbQ/Screenshot-2024-10-16-at-16-17-56-Hack-The-Box-User-Profile.png" alt="Your Image Badge" />
+    <img height="85px" width="300px" src="https://i.ibb.co/kq1cqbQ/Screenshot-2024-10-16-at-16-17-56-Hack-The-Box-User-Profile.png" alt="Your Image Badge" />
 </p>
 
 ---

@@ -20,6 +20,8 @@
 
 🔒 Did you know? The first computer virus ever created was called the "Creeper" virus in 1971, which was more of a playful experiment than a harmful attack. It simply displayed the message: "I’m the creeper, catch me if you can!"
 
+🔒 Did you know? The Exploit used by lockbit ransomware group was a pubicly available CVE to take over a windows machine with the RDP protocole on leading to major attack because people doesn't update. so as of today do your update correctly or face the risk of an attack !
+
 ---
 ## Programming in
 

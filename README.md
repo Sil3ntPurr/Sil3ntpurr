@@ -47,12 +47,13 @@
 </p>
 
 ---
- <details>
-    <h1>❤️ Love Art</h1>
+
+<h1>❤️ Love Art</h1>
+ <details>   
     <br>
     <p align="center">
         <img src="https://i.ibb.co/YcncCZX/art.png"/>
     </p>
   </details>
 
-
+---

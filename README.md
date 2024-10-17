@@ -53,6 +53,8 @@
     <br>
     <p align="center">
         <img src="https://i.ibb.co/YcncCZX/art.png"/>
+        <br>
+        <img src="https://i.ibb.co/34XtBLZ/image.png"/>
     </p>
   </details>
 

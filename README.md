@@ -11,7 +11,6 @@
     🛡️   Purple Team, Pentester, Security Analyst, and Forensic Analyst
     🌱   Currently learning Golang
     🐻   My goal is to build my own CyberSecurity enterprise
-    📫   You can reach me via Email
     👨🏻‍💻   All of my projects are available on my GitHub
 
 ---

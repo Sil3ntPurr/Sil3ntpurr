@@ -39,14 +39,6 @@
     Linux servers, mostly.
 ---
 
-## My TryHackMe and HackTheBox Profile
-<p align="center">
-    <img src="" alt="Your Image Badge" />
-    <img height="85px" width="300px" style="border-radius:50%" src="" alt="Your Image Badge" />
-</p>
-
----
-
 <h1>❤️ Love Art</h1>
  <details>   
     <br>

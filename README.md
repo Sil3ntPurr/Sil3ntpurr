@@ -1,7 +1,7 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Im+Sil3ntPurr+Pentester)](https://git.io/typing-svg)
 
 <p align="center">
-    <img align="center" src="https://64.media.tumblr.com/481e4fd90259f71f139c76090d671be8/c07c65e9f9afc7fd-c6/s540x810/f2585698d47187138855b43cfaa771dc721e90cc.gif">
+    <img align="center" src="https://i.ibb.co/4wyWDW40/me.png">
 </p>
 
 ---
